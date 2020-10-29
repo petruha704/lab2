@@ -7,7 +7,7 @@ body
 
 hr
 {
-  background-color: #ffffdd;
+  background-color: #inherit;
 
   border-style:none;
   border-top-style: dotted ;
