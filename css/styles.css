@@ -1,0 +1,53 @@
+
+body
+{
+  background-color: #ffffdd;
+  font-family: Georgia, Times, serif;
+}
+
+hr
+{
+  background-color: inherit;
+
+  border-style:none;
+  border-top-style: dotted ;
+  border-color : #006a71;
+  border-width :25px ;
+  width : 10%;
+
+
+}
+input
+{
+  background-color: #ffffdd;
+  border-style: dotted;
+border-color : #006a71;
+  border-width :3px;
+
+}
+textarea
+{
+  background-color: #ffffdd;
+  border-style: solid;
+border-color : #006a71;
+  border-width :3px;
+}
+hr.endhr
+{
+  color: #006a71;
+  background-color: #006a71;
+  height: 3px;
+  border-style:dashed;
+  width: 100%;
+  border-color : #ffffdd;
+  border-width :2px ;
+}
+input:focus
+{
+    color: #9932CC;
+}
+
+textarea:focus
+{
+    color: #9932CC;
+}
